@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: xxMichalPK/metrics@main
+      - uses: xxMichalPK/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base_hireable: true
