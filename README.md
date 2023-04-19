@@ -28,4 +28,4 @@
 
 ## My top repos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xxMichalPk&repo=DiskOS&bg_color=00000000)](https://github.com/xxMichalPk/DiskOS)
+![Metrics](/github-metrics.svg)
