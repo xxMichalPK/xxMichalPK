@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: xxMichalPK/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base_hireable: true
