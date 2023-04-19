@@ -1,10 +1,4 @@
-<div align="center">
-
-# Hi, I'm Michał 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxMichalPk&langs_count=8&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+![Metrics](/github-metrics.svg)
 
 ## Languages and Tools ⚒️
 <div display="flex">
@@ -25,7 +19,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="52px" />
 &nbsp;&nbsp;
 </div>
-
-## My top repos:
-
-![Metrics](/github-metrics.svg)
