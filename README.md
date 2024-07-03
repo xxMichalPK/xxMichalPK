@@ -1,6 +1,8 @@
-## Hi! 👋
+![Banner](/Banner.png)
 
-I'm Michał Pazurek, a passionate IT professional with a technical diploma in Information Technology.
+# Hi I'm Michał! 👋
+
+A passionate IT specialist with a technical diploma in Information Technology.
 
 ## Languages and Tools ⚒️
 <div display="flex">
