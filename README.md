@@ -2,7 +2,7 @@
 
 # Hi I'm Michał! 👋
 
-A passionate IT specialist with a technical diploma in Information Technology.
+Hooked on programming since 13. Now an IT specialist with a technical diploma in Information Technology, diving deep into code and tech innovation. Always on the hunt for new challenges and knowledge.
 
 ## Languages and Tools ⚒️
 <div display="flex">
